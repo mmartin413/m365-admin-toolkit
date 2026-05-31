@@ -1,0 +1,14 @@
+# Generated reports
+reports/
+*.csv
+*.html
+
+# Local credentials / secrets — never commit
+*.secret
+*.pfx
+.env
+appsettings.local.json
+
+# PowerShell / editor noise
+*.psd1.bak
+.vscode/
