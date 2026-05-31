@@ -1,6 +1,6 @@
 # M365 Admin Toolkit
 
-![Lint and Test](https://github.com/<your-username>/m365-admin-toolkit/actions/workflows/lint.yml/badge.svg)
+![Lint and Test](https://github.com/mmartin413/m365-admin-toolkit/actions/workflows/lint.yml/badge.svg)
 ![PowerShell](https://img.shields.io/badge/PowerShell-7%2B-5391FE)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
