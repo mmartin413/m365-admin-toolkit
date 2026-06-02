@@ -6,7 +6,7 @@
 
 PowerShell tooling for common Microsoft 365 / Entra ID administration tasks,
 built on the **Microsoft Graph PowerShell SDK**. Reusable, idempotent, and
-CI-checked — not one-off scripts.
+CI-checked.
 
 > The legacy `MSOnline` and `AzureAD` modules are deprecated. This toolkit uses
 > Microsoft Graph throughout.
